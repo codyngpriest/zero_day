@@ -1,1 +1,1 @@
-This is a project involving using linx on my PC.
+This is a project involving using linux on my PC.
